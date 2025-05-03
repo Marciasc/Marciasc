@@ -9,4 +9,3 @@ Olá, me chamo Márcia Siqueira , sou programador Front End,atualmente estou apr
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Márciasc=contribs,prs)
